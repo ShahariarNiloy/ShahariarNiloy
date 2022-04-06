@@ -1,5 +1,6 @@
 <a href="#"><img width="100%" src="https://coding.blog/img/account-banner.svg" height="150px"/></a>
 
+
 <h1 align="center">Hi 👋, I'm Shahariar Niloy</h1>
 <h3 align="center">A Software Engineer from Bangladesh<br>Passionate about Web Development && Machine Learning </h3><br>
 <p align="right">
@@ -61,7 +62,7 @@
  
 </p>
 
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<b>Note:</b> Most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <p align="center">
